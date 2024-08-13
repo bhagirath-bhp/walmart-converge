@@ -1,12 +1,13 @@
 import "./App.css";
-import MapComponent from "./components/MapComponent";
+import { Sidebar } from "./components/SideBar";
+import Logistics from "./pages/Logistics";
 
 function App() {
   return (
-    <>
-      <MapComponent />
-      <p>hii</p>
-    </>
+    <div className="h-screen flex">
+      <Sidebar />
+      <Logistics />
+    </div>
   );
 }
 
