@@ -1,14 +1,12 @@
-import "./App.css";
-import { Sidebar } from "./components/SideBar";
-import Logistics from "./pages/Logistics";
+import './App.css'
 
 function App() {
+
   return (
-    <div className="h-screen flex">
-      <Sidebar />
-      <Logistics />
-    </div>
-  );
+    <>
+     
+    </>
+  )
 }
 
-export default App;
+export default App
