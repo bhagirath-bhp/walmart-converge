@@ -1,1 +1,40 @@
-[] 
+{
+  "headers": ["Container ID", "Status", "Location", "Capacity", "Last Updated"],
+  "rows": [
+    {
+      "id": "C123",
+      "status": "Active",
+      "location": "Warehouse A",
+      "capacity": "50%",
+      "updated": "12/08/24"
+    },
+    {
+      "id": "C124",
+      "status": "Inactive",
+      "location": "Warehouse B",
+      "capacity": "30%",
+      "updated": "11/08/24"
+    },
+    {
+      "id": "C125",
+      "status": "Active",
+      "location": "Warehouse C",
+      "capacity": "70%",
+      "updated": "10/08/24"
+    },
+    {
+      "id": "C126",
+      "status": "Inactive",
+      "location": "Warehouse D",
+      "capacity": "20%",
+      "updated": "09/08/24"
+    },
+    {
+      "id": "C127",
+      "status": "Active",
+      "location": "Warehouse E",
+      "capacity": "90%",
+      "updated": "08/08/24"
+    }
+  ]
+}

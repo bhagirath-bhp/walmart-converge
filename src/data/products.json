@@ -1,1 +1,40 @@
-[] 
+{
+  "headers": ["Product ID", "Name", "Category", "Price", "Stock"],
+  "rows": [
+    {
+      "id": "P001",
+      "name": "Product A",
+      "category": "Electronics",
+      "price": "$299.99",
+      "stock": "In Stock"
+    },
+    {
+      "id": "P002",
+      "name": "Product B",
+      "category": "Furniture",
+      "price": "$149.99",
+      "stock": "Out of Stock"
+    },
+    {
+      "id": "P003",
+      "name": "Product C",
+      "category": "Clothing",
+      "price": "$49.99",
+      "stock": "In Stock"
+    },
+    {
+      "id": "P004",
+      "name": "Product D",
+      "category": "Toys",
+      "price": "$19.99",
+      "stock": "In Stock"
+    },
+    {
+      "id": "P005",
+      "name": "Product E",
+      "category": "Sports",
+      "price": "$89.99",
+      "stock": "Low Stock"
+    }
+  ]
+}

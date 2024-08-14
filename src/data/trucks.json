@@ -1,1 +1,40 @@
-[] 
+{
+  "headers": ["Truck ID", "Model", "Capacity", "Status", "Last Maintenance"],
+  "rows": [
+    {
+      "id": "T001",
+      "model": "Volvo FH",
+      "capacity": "30 tons",
+      "status": "Active",
+      "maintenance": "12/08/24"
+    },
+    {
+      "id": "T002",
+      "model": "Mercedes Actros",
+      "capacity": "25 tons",
+      "status": "In Maintenance",
+      "maintenance": "11/08/24"
+    },
+    {
+      "id": "T003",
+      "model": "Scania R Series",
+      "capacity": "28 tons",
+      "status": "Active",
+      "maintenance": "10/08/24"
+    },
+    {
+      "id": "T004",
+      "model": "MAN TGX",
+      "capacity": "32 tons",
+      "status": "Inactive",
+      "maintenance": "09/08/24"
+    },
+    {
+      "id": "T005",
+      "model": "Kenworth T680",
+      "capacity": "33 tons",
+      "status": "Active",
+      "maintenance": "08/08/24"
+    }
+  ]
+}
